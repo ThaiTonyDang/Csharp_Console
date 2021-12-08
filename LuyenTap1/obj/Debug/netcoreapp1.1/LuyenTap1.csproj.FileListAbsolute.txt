@@ -1,0 +1,8 @@
+C:\Users\Universe\Documents\Visual Studio 2017\Projects\ThuatToan\LuyenTap1\bin\Debug\netcoreapp1.1\LuyenTap1.deps.json
+C:\Users\Universe\Documents\Visual Studio 2017\Projects\ThuatToan\LuyenTap1\bin\Debug\netcoreapp1.1\LuyenTap1.runtimeconfig.json
+C:\Users\Universe\Documents\Visual Studio 2017\Projects\ThuatToan\LuyenTap1\bin\Debug\netcoreapp1.1\LuyenTap1.runtimeconfig.dev.json
+C:\Users\Universe\Documents\Visual Studio 2017\Projects\ThuatToan\LuyenTap1\obj\Debug\netcoreapp1.1\LuyenTap1.AssemblyInfo.cs
+C:\Users\Universe\Documents\Visual Studio 2017\Projects\ThuatToan\LuyenTap1\bin\Debug\netcoreapp1.1\LuyenTap1.dll
+C:\Users\Universe\Documents\Visual Studio 2017\Projects\ThuatToan\LuyenTap1\bin\Debug\netcoreapp1.1\LuyenTap1.pdb
+C:\Users\Universe\Documents\Visual Studio 2017\Projects\ThuatToan\LuyenTap1\obj\Debug\netcoreapp1.1\LuyenTap1.dll
+C:\Users\Universe\Documents\Visual Studio 2017\Projects\ThuatToan\LuyenTap1\obj\Debug\netcoreapp1.1\LuyenTap1.pdb

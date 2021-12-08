@@ -1,0 +1,9 @@
+C:\Users\Universe\Documents\Visual Studio 2017\Projects\ThuatToan\LuyenTap2\bin\Debug\netcoreapp1.1\LuyenTap2.deps.json
+C:\Users\Universe\Documents\Visual Studio 2017\Projects\ThuatToan\LuyenTap2\bin\Debug\netcoreapp1.1\LuyenTap2.runtimeconfig.json
+C:\Users\Universe\Documents\Visual Studio 2017\Projects\ThuatToan\LuyenTap2\bin\Debug\netcoreapp1.1\LuyenTap2.runtimeconfig.dev.json
+C:\Users\Universe\Documents\Visual Studio 2017\Projects\ThuatToan\LuyenTap2\bin\Debug\netcoreapp1.1\LuyenTap2.dll
+C:\Users\Universe\Documents\Visual Studio 2017\Projects\ThuatToan\LuyenTap2\bin\Debug\netcoreapp1.1\LuyenTap2.pdb
+C:\Users\Universe\Documents\Visual Studio 2017\Projects\ThuatToan\LuyenTap2\obj\Debug\netcoreapp1.1\LuyenTap2.csprojResolveAssemblyReference.cache
+C:\Users\Universe\Documents\Visual Studio 2017\Projects\ThuatToan\LuyenTap2\obj\Debug\netcoreapp1.1\LuyenTap2.AssemblyInfo.cs
+C:\Users\Universe\Documents\Visual Studio 2017\Projects\ThuatToan\LuyenTap2\obj\Debug\netcoreapp1.1\LuyenTap2.dll
+C:\Users\Universe\Documents\Visual Studio 2017\Projects\ThuatToan\LuyenTap2\obj\Debug\netcoreapp1.1\LuyenTap2.pdb

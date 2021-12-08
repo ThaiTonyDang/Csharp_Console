@@ -7080,10 +7080,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\universe\\documents\\visual studio 2017\\Projects\\ThuatToan\\LuyenTap1\\LuyenTap1.csproj",
+      "projectUniqueName": "C:\\Users\\Universe\\Documents\\Visual Studio 2017\\Projects\\ThuatToan\\LuyenTap1\\LuyenTap1.csproj",
       "projectName": "LuyenTap1",
-      "projectPath": "c:\\users\\universe\\documents\\visual studio 2017\\Projects\\ThuatToan\\LuyenTap1\\LuyenTap1.csproj",
-      "outputPath": "c:\\users\\universe\\documents\\visual studio 2017\\Projects\\ThuatToan\\LuyenTap1\\obj\\",
+      "projectPath": "C:\\Users\\Universe\\Documents\\Visual Studio 2017\\Projects\\ThuatToan\\LuyenTap1\\LuyenTap1.csproj",
+      "outputPath": "C:\\Users\\Universe\\Documents\\Visual Studio 2017\\Projects\\ThuatToan\\LuyenTap1\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
