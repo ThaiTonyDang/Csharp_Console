@@ -10,16 +10,17 @@ namespace LuyenTap1
     {
         static void Main(string[] args)
         {
-            Console.OutputEncoding = Encoding.UTF8;
-            Console.ForegroundColor = ConsoleColor.DarkCyan;
-            Console.Write("Nhập số tự nhiên n = ");
-            int n = Int16.Parse(Console.ReadLine());
-            int Tong = 0;
-            for(int bd=1;bd<=n;bd++)
+            Console.Write("Input n = ");
+            int number = Int16.Parse(Console.ReadLine());
+
+            int sum = 0;
+            for(int i=1; i <= number; i++)
             {
-                Tong = Tong+bd;
+                sum += i;
             }
-            Console.WriteLine("Kết quả là Tổng = "+Tong);
+
+            Console.WriteLine("Result = " + sum);
+            Console.WriteLine("Big O is O(n)");
             Console.ReadLine();
         }
     }
