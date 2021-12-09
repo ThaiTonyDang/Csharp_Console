@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuyenTap2", "LuyenTap2\Luye
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuyenTap3", "LuyenTap3\LuyenTap3.csproj", "{4474DD37-72BF-401F-94AA-2550308BFC8E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuyenTap4", "LuyenTap4\LuyenTap4.csproj", "{B63A6602-7AD4-4678-ABD1-EEBE61BE9692}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{4474DD37-72BF-401F-94AA-2550308BFC8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4474DD37-72BF-401F-94AA-2550308BFC8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4474DD37-72BF-401F-94AA-2550308BFC8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B63A6602-7AD4-4678-ABD1-EEBE61BE9692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B63A6602-7AD4-4678-ABD1-EEBE61BE9692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B63A6602-7AD4-4678-ABD1-EEBE61BE9692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B63A6602-7AD4-4678-ABD1-EEBE61BE9692}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
